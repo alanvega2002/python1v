@@ -1,2 +1,2 @@
-mensajes"hello world"
+mensajes="hello world"
 print(mensajes)
